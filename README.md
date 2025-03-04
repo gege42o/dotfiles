@@ -1,3 +1,3 @@
-bro crede ca are descriere
+My dotfiles
 
-## LMAO
+Oh my zsh + .zshrc configs

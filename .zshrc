@@ -110,3 +110,5 @@ alias now='date +"%T"'
 alias nowtime=now
 alias nowdate='date +"%d-%m-%Y"'
 alias ports='netstat -tulanp'
+alias zshrc='sudo nano /home/gg/.zshrc'
+alias pipez='~/pipes.sh/pipes.sh -p 6 -R -t 3 -K'
